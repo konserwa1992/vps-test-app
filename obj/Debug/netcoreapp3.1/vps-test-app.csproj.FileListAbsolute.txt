@@ -1,0 +1,19 @@
+C:\build_output\vps-test-app.exe
+C:\build_output\vps-test-app.deps.json
+C:\build_output\vps-test-app.runtimeconfig.json
+C:\build_output\vps-test-app.runtimeconfig.dev.json
+C:\build_output\vps-test-app.dll
+C:\build_output\vps-test-app.pdb
+C:\Users\gblaszczynski\source\repos\TEST i nauka\vps-test-app\obj\Debug\netcoreapp3.1\vps-test-app.csprojAssemblyReference.cache
+C:\Users\gblaszczynski\source\repos\TEST i nauka\vps-test-app\obj\Debug\netcoreapp3.1\vps-test-app.AssemblyInfoInputs.cache
+C:\Users\gblaszczynski\source\repos\TEST i nauka\vps-test-app\obj\Debug\netcoreapp3.1\vps-test-app.AssemblyInfo.cs
+C:\Users\gblaszczynski\source\repos\TEST i nauka\vps-test-app\obj\Debug\netcoreapp3.1\vps-test-app.csproj.CoreCompileInputs.cache
+C:\Users\gblaszczynski\source\repos\TEST i nauka\vps-test-app\obj\Debug\netcoreapp3.1\vps-test-app.dll
+C:\Users\gblaszczynski\source\repos\TEST i nauka\vps-test-app\obj\Debug\netcoreapp3.1\vps-test-app.pdb
+C:\Users\gblaszczynski\source\repos\TEST i nauka\vps-test-app\obj\Debug\netcoreapp3.1\vps-test-app.genruntimeconfig.cache
+C:\Users\gblaszczynski\source\repos\TEST i nauka\vps-test-app\bin\Debug\netcoreapp3.1\vps-test-app.exe
+C:\Users\gblaszczynski\source\repos\TEST i nauka\vps-test-app\bin\Debug\netcoreapp3.1\vps-test-app.deps.json
+C:\Users\gblaszczynski\source\repos\TEST i nauka\vps-test-app\bin\Debug\netcoreapp3.1\vps-test-app.runtimeconfig.json
+C:\Users\gblaszczynski\source\repos\TEST i nauka\vps-test-app\bin\Debug\netcoreapp3.1\vps-test-app.runtimeconfig.dev.json
+C:\Users\gblaszczynski\source\repos\TEST i nauka\vps-test-app\bin\Debug\netcoreapp3.1\vps-test-app.dll
+C:\Users\gblaszczynski\source\repos\TEST i nauka\vps-test-app\bin\Debug\netcoreapp3.1\vps-test-app.pdb
