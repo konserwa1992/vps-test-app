@@ -1,4 +1,5 @@
 ﻿using System;
+using System.Threading;
 
 namespace vps_test_app
 {
@@ -6,7 +7,11 @@ namespace vps_test_app
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("TEST World!");
+            while (true)
+            {
+                Thread.Sleep(1000);
+                Console.WriteLine("TEST World!");
+            }
         }
     }
 }
